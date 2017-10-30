@@ -4,8 +4,17 @@ I just finished taking the "Get Prepared for the Web Development Immersive - Jav
 
 This is a project I put together as a part of my portfolio for the Galvanize application process.
 
-here is a working [demo](http://jmh-galvanize-portfolio-2.surge.sh/)
+### Option 1: Previous Creative Project
+Send us a previous creative project, or a summary of the project. We really like seeing pictures and videos of things you’ve built.
+
+
+Traveling back to Texas with my hands full and a busy schedule, feeling pressed to impress to get my Galvanize portfolio submitted. I have completed many "creative projects" over time, but decided to put this simple gallery/article of a project I designed and built.
 
 this is a simple bootstrap image gallery showing a small cabin I designed and build.
+here is a working [demo](http://jmh-galvanize-portfolio-2.surge.sh/)
 
 based on the template from [ tutorialzine.com](https://tutorialzine.com/2017/02/freebie-4-bootstrap-galleries)
+
+
+
+
