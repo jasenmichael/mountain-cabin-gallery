@@ -8,4 +8,4 @@ here is a working [demo](http://jmh-galvanize-portfolio-2.surge.sh/)
 
 this is a simple bootstrap image gallery showing a small cabin I designed and build.
 
-based on the template [from tutorialzine.com](https://tutorialzine.com/2017/02/freebie-4-bootstrap-galleries)
+based on the template from [ tutorialzine.com](https://tutorialzine.com/2017/02/freebie-4-bootstrap-galleries)
