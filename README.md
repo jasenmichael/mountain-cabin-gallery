@@ -9,10 +9,6 @@ Send us a previous creative project, or a summary of the project. We really like
 ___
   Traveling back to Texas with my hands full and a busy schedule, feeling pressed to impress to get my Galvanize portfolio submitted. I decided to put this gallery/article of a cabin in the mountains I designed and built.
 
-
-A simple bootstrap image gallery showing a small cabin I designed and build.
-
-
 here is a working [demo](http://jmh-galvanize-portfolio-2.surge.sh/)
 
 Based on the template from [ tutorialzine](https://tutorialzine.com/2017/02/freebie-4-bootstrap-galleries)
