@@ -10,5 +10,3 @@ ___
   Traveling back to Texas with my hands full and a busy schedule. I'm feeling pressed to impress to get my Galvanize portfolio submitted. I decided to put this gallery/article of a cabin in the mountains I designed and built.
 
 here is a working [demo](http://jmh-galvanize-portfolio-2.surge.sh/)
-
-Based on the template from [ tutorialzine](https://tutorialzine.com/2017/02/freebie-4-bootstrap-galleries)
